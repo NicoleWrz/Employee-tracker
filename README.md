@@ -15,7 +15,6 @@ This project uses nodeJS, inquirer and MySQL to design and build a solution for 
 
 ## Installations
 npm install
-npm run seed
 
 ## Screenshot
 ![]()
