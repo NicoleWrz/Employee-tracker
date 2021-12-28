@@ -20,6 +20,7 @@ npm install
 ![](https://github.com/NicoleWrz/Employee-tracker/blob/37eb8ede95ffe0d3546800af1a20eeed91bbb39b/images/employee-tracker-ss.png)
   
 ## Video
+https://user-images.githubusercontent.com/92045019/147595753-1c53f794-916c-41fd-9e95-0a79e1f1b73b.mp4
 
 
 ## License
