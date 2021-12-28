@@ -17,7 +17,7 @@ This project uses nodeJS, inquirer and MySQL to design and build a solution for 
 npm install
 
 ## Screenshot
-![]()
+![](https://github.com/NicoleWrz/Employee-tracker/blob/37eb8ede95ffe0d3546800af1a20eeed91bbb39b/images/employee-tracker-ss.png)
   
 ## Video
 
