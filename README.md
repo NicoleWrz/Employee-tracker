@@ -11,10 +11,11 @@
  - [Questions](#Questions)
 
 ## Description
-architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+This project uses nodeJS, inquirer and MySQL to design and build a solution for managing a company's employees.
 
 ## Installations
 npm install
+npm run seed
 
 ## Screenshot
 ![](https://github.com/NicoleWrz/E-Commerce-Back-End/blob/777d34b015785b2340f2619b2e65f695cf8ecaa0/E-Commerce%20screenshot.png)
